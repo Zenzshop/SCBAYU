@@ -27,10 +27,10 @@ runtime = process.uptime()
 teks = `${kyun(runtime)}`
 run = `${kyun(runtime)}`
 
-global.owner = ['6283172195617']// Put your number here
+global.owner = ['6283184460082']// Put your number here
 
-global.mods = ['6285718397435'] // Want some help?
-global.prems = ['6283172195617'] // Premium user has unlimited limit
+global.mods = ['6283184460082'] // Want some help?
+global.prems = ['6283184460082'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   //kalo mau dapetin apikeynya daftar link dibawah
@@ -57,8 +57,8 @@ const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
 // var sticker_name = 'I hope you\'re fine'
 //var sticker_author = 'Nurutomo'
-var sticker_name = 'Botzrifan' // ganti aja
-var sticker_author = 'RIFANSHOP' // ganti aja
+var sticker_name = 'Botzzyrex' // ganti aja
+var sticker_author = 'zyrexshop' // ganti aja
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
@@ -86,22 +86,22 @@ fs.watchFile(file, () => {
   require(file)
 })
 
-// Tambahan By Me (fanx4tod)
+// Tambahan By Me (zyrex)
 gc1 = 'https://chat.whatsapp.com/EbXG0cbSCczKoIdl4zG3Ql'
 gc2 = 'https://chat.whatsapp.com/EbXG0cbSCczKoIdl4zG3Ql'
 gc3 = 'https://chat.whatsapp.com/EbXG0cbSCczKoIdl4zG3Q1'
-namaig = 'https://instagram.com/rifan_testi1'
+namaig = 'https://instagram.com/panz_yt1'
 linkf = gc1
 linkff = namaig
-namabot = 'FANX4TOD Botz'
-namagithub = 'https://github.com/rifanjb'
-gcid = '6283172195617-1406453544'
-footer = '6283172195617'
+namabot = 'zyrex Botz'
+namagithub = 'https://github.com/zyrex jb'
+gcid = '6283184460082-1406453544'
+footer = '6283184460082'
 lolkey = 'apikeymu'
 global.wait = 'Tunggu Sebentar'
-bc = 'RIFAN SHOP OFC'
-titler = 'RIFAN-BOT'
+bc = 'zyrex OFC'
+titler = 'zyrex-BOT'
 body = run
-kasihcaption = `©FAN-BOT\n\n©BY RIFAN SHOP`
+kasihcaption = `©zyrex-BOT\n\n©BY zyrex shoP`
 gambar1 = tum1 
 gambar2 = tum1
