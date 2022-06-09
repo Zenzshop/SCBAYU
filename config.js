@@ -87,9 +87,9 @@ fs.watchFile(file, () => {
 })
 
 // Tambahan By Me (zyrex)
-gc1 = 'https://chat.whatsapp.com/EbXG0cbSCczKoIdl4zG3Ql'
-gc2 = 'https://chat.whatsapp.com/EbXG0cbSCczKoIdl4zG3Ql'
-gc3 = 'https://chat.whatsapp.com/EbXG0cbSCczKoIdl4zG3Q1'
+gc1 = 'https://chat.whatsapp.com/Jhd72deYMRM22KFfl4qRmR'
+gc2 = 'https://chat.whatsapp.com/Jhd72deYMRM22KFfl4qRmR'
+gc3 = 'https://chat.whatsapp.com/Jhd72deYMRM22KFfl4qRmR'
 namaig = 'https://instagram.com/panz_yt1'
 linkf = gc1
 linkff = namaig
